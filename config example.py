@@ -1,4 +1,4 @@
-# Example configuration file (DO NOT USE REAL CREDENTIALS)
+# Example configuration file 
 
 DB_HOST = "localhost"
 DB_USER = "your_username"
