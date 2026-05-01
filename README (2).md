@@ -67,11 +67,11 @@ DB_USER=root
 DB_PASSWORD=your_password_here
 DB_NAME=currency_tracker
 
-
 !! The `.env` file is not included in this repository for security reasons.
 
-A sample configuration file (`config_example.py`) is provided as a reference for the required variables.
+A sample configuration file (`config_example.py`) is provided as a reference.
 
+Sensitive files such as `.env` and `config.py` are excluded using `.gitignore` to ensure security.
 
 ## Running the Project
 
